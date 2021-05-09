@@ -1,3 +1,5 @@
+#### Anything you see in these repos was just for my learning journey. Nothing serious of course :D
+
 ==========================================================================================
 																												 
 Sci-Calci-GUI v1.0.0																							 
